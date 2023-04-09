@@ -1,2 +1,3 @@
-#!/usr/local/bin/bash
+#!/usr/bin/bash
+
 echo Hello World!
